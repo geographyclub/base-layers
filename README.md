@@ -6,9 +6,9 @@ My collection of "artsy" topographic base layers I use to instantly add style to
 
 These maps use base-layers:  
 
-<img src="images/shade_example.png"/>
-<img src="images/basins_example.png"/>
-<img src="images/rivers_example.png"/>
+<img src="shade_example.png"/>
+<img src="basins_example.png"/>
+<img src="rivers_example.png"/>
 
 ## Downloads
 
