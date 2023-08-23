@@ -8,8 +8,8 @@ My collection of "artsy" topographic base maps I use to instantly add style to a
 
 Rasters are in 20x20 degree tiles.
 
-[Ghost](https://github.com/geographyclub/base-layers/tree/main/ghost/)
-[Leafy](https://github.com/geographyclub/base-layers/tree/main/leafy/)
+[Ghost](https://github.com/geographyclub/base-layers/tree/main/ghost/)  
+[Leafy](https://github.com/geographyclub/base-layers/tree/main/leafy/)  
 
 ## Data sources
 
