@@ -4,11 +4,15 @@ My collection of "artsy" georeferenced rasters of stylized topography and other 
 
 <img src="topo1_example.png"/>
 
-[Topo1](https://github.com/geographyclub/base-layers/tree/main/topo1/grid20)
+## Downloads
+
+Rasters are in 20x20 degree tiles.
+
+[Topo1](https://github.com/geographyclub/base-layers/tree/main/topo1/)
 
 ## Data sources
 
-NASA SRTM
-HydroATLAS
-Natural Earth
-OpenStreetMap
+NASA SRTM  
+HydroATLAS  
+Natural Earth  
+OpenStreetMap  
