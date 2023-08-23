@@ -4,7 +4,7 @@ My collection of "artsy" georeferenced rasters of stylized topography and other 
 
 <img src="topo1_example.png"/>
 
-[Topo1](https://github.com/geographyclub/base-layers/topo1/grid20)
+[Topo1](https://github.com/geographyclub/base-layers/tree/main/topo1/grid20)
 
 ## Data sources
 
