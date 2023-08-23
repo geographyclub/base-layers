@@ -2,7 +2,8 @@
 
 My collection of "artsy" topographic base layers I use to instantly add style to a map. Open in QGIS, Photoshop, any software that works with georeferenced tifs.
 
-<img src="topo1_example.png"/>
+<img src="ghost_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
+<img src="leafy_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
 
 ## Downloads
 
@@ -11,13 +12,15 @@ Rasters are in 20x20 degree tiles in these styles:
 [Ghost](https://github.com/geographyclub/base-layers/tree/main/ghost/)  
 [Leafy](https://github.com/geographyclub/base-layers/tree/main/leafy/)  
 
+Hatching coming soon
+
 ## Examples
 
-Coming soon.
+TO DO.
 
 ## How to use
 
-Coming soon.
+TO DO.
 
 ## Data sources
 
