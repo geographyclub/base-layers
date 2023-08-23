@@ -1,6 +1,6 @@
 # base-layers
 
-My collection of "artsy" georeferenced rasters of stylized topography and other earth features. Open in QGIS, Photoshop, any software that works with tifs.
+My collection of "artsy" topographic base maps I use to instantly add style to a map. Open and customize in QGIS, Photoshop, any software that works with georeferenced tifs.
 
 <img src="topo1_example.png"/>
 
@@ -8,11 +8,12 @@ My collection of "artsy" georeferenced rasters of stylized topography and other 
 
 Rasters are in 20x20 degree tiles.
 
-[Topo1](https://github.com/geographyclub/base-layers/tree/main/topo1/)
+[Ghost](https://github.com/geographyclub/base-layers/tree/main/ghost/)
+[Leafy](https://github.com/geographyclub/base-layers/tree/main/leafy/)
 
 ## Data sources
 
-NASA SRTM  
 HydroATLAS  
 Natural Earth  
 OpenStreetMap  
+SRTM  
