@@ -7,6 +7,7 @@ My collection of stylish map layers to build on. Open in QGIS, Photoshop, any so
 These maps use base-layers:  
 
 <img src="shade_example.png"/>
+<img src="hatching_example.png"/>
 <img src="basins_example.png"/>
 <img src="rivers_example.png"/>
 
@@ -19,6 +20,10 @@ Rasters are in 20x20 degree tiles.
 [Shade](https://github.com/geographyclub/base-layers/tree/main/shade)
 
 <img src="shade_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
+
+[Hatching](https://github.com/geographyclub/base-layers/tree/main/hatching)
+
+<img src="hatching_xmin_0_xmax_20_ymin_30_ymax_50.png"/>
 
 [Basins](https://github.com/geographyclub/base-layers/tree/main/basins)
 
