@@ -12,7 +12,9 @@ These maps use base-layers:
 
 ## Downloads
 
-Rasters are in 20x20 degree tiles covering global extent.  
+Rasters are in 20x20 degree tiles.
+
+<img src="grid_20_20.png"/>
 
 [Shade](https://github.com/geographyclub/base-layers/tree/main/shade)
 
