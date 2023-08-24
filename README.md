@@ -6,32 +6,32 @@ My collection of stylish map layers to build on. Open in QGIS, Photoshop, any so
 
 These maps use base-layers:  
 
-<img src="shade_example.png"/>
-<img src="hatching_example.png"/>
-<img src="basins_example.png"/>
-<img src="rivers_example.png"/>
+<img src="img/shade_example.png"/>
+<img src="img/hatching_example.png"/>
+<img src="img/basins_example.png"/>
+<img src="img/rivers_example.png"/>
 
 ## Downloads
 
 Rasters are in 20x20 degree tiles.
 
-<img src="grid_20_20.png"/>
+<img src="img/grid_20_20.png"/>
 
 [Shade](https://github.com/geographyclub/base-layers/tree/main/shade)
 
-<img src="shade_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
+<img src="img/shade_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
 
 [Hatching](https://github.com/geographyclub/base-layers/tree/main/hatching)
 
-<img src="hatching_xmin_0_xmax_20_ymin_30_ymax_50.png"/>
+<img src="img/hatching_xmin_0_xmax_20_ymin_30_ymax_50.png"/>
 
 [Basins](https://github.com/geographyclub/base-layers/tree/main/basins)
 
-<img src="basins_xmin_120_xmax_140_ymin_30_ymax_50.png"/>
+<img src="img/basins_xmin_120_xmax_140_ymin_30_ymax_50.png"/>
 
 [Rivers](https://github.com/geographyclub/base-layers/tree/main/rivers)
 
-<img src="rivers_xmin_20_xmax_40_ymin_30_ymax_50.png"/>
+<img src="img/rivers_xmin_20_xmax_40_ymin_30_ymax_50.png"/>
 
 ## How to use
 
