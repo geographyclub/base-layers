@@ -1,6 +1,6 @@
 # base-layers
 
-My collection of stylish map layers to build on. Open in QGIS, Photoshop, any software that works with georeferenced tifs.
+My collection of stylistic map layers to build on. Open in QGIS, Photoshop, any software that works with georeferenced tifs.
 
 ## Usage
 
