@@ -24,7 +24,7 @@ Rasters are in 20x20 degree tiles.
 
 [Shade2 directory](https://github.com/geographyclub/base-layers/tree/main/shade2)
 
-<img src="img/shade2_xmin_0_xmax_20_ymin_30_ymax_50.png"/>
+<img src="img/shade2_xmin_80_xmax_100_ymin_30_ymax_50.png"/>
 
 [Hatching directory](https://github.com/geographyclub/base-layers/tree/main/hatching)
 
