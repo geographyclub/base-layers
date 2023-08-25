@@ -8,8 +8,8 @@ These maps use base-layers:
 
 <img src="img/example_shade.png"/>
 <img src="img/example_shade2.png"/>
-<img src="img/example_basins_shade.png"/>
-<img src="img/example_basins_hatching.png"/>
+<img src="img/example_basins.png"/>
+<img src="img/example_hatching.png"/>
 <img src="img/example_rivers.png"/>
 
 ## Downloads
