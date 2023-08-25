@@ -8,8 +8,8 @@ These maps use base-layers:
 
 <img src="img/example_shade.png"/>
 <img src="img/example_shade2.png"/>
-<img src="img/example_basins.png"/>
 <img src="img/example_hatching.png"/>
+<img src="img/example_basins.png"/>
 <img src="img/example_rivers.png"/>
 
 ## Downloads
@@ -24,7 +24,7 @@ Rasters are in 20x20 degree tiles.
 
 [Shade2 directory](https://github.com/geographyclub/base-layers/tree/main/shade2)
 
-<img src="img/shade2_xmin_-80_xmax_-60_ymin_-50_ymax_-30.png"/>
+<img src="img/shade2_xmin_0_xmax_20_ymin_30_ymax_50.png"/>
 
 [Hatching directory](https://github.com/geographyclub/base-layers/tree/main/hatching)
 
