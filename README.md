@@ -7,7 +7,7 @@ My collection of stylistic map layers to build on. Open in QGIS, Photoshop, any 
 These maps use base-layers:  
 
 <img src="img/example_shade.png"/>
-<img src="img/example_shade2_hatching.png"/>
+<img src="img/example_shade2.png"/>
 <img src="img/example_basins_shade.png"/>
 <img src="img/example_basins_hatching.png"/>
 <img src="img/example_rivers.png"/>
