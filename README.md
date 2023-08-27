@@ -1,6 +1,6 @@
 # base-layers
 
-My collection of stylistic map layers to build on. Open in QGIS, Photoshop, any software that works with georeferenced tifs.
+My collection of rasters I use to instantly add style to a map -- combine with color, label or thematic layers. Open in QGIS, Photoshop, any software that works with georeferenced tifs.
 
 ## Usage
 
@@ -15,7 +15,7 @@ These maps use base-layers:
 
 ## Downloads
 
-Rasters are in 20x20 degree tiles.
+Rasters are in 20x20 degree tiles, organized by style. Search for your tile in these directories:
 
 <img src="img/grid_20_20.png"/>
 
@@ -38,6 +38,10 @@ Rasters are in 20x20 degree tiles.
 [Rivers directory](https://github.com/geographyclub/base-layers/tree/main/rivers)
 
 <img src="img/rivers_xmin_20_xmax_40_ymin_30_ymax_50.png"/>
+
+[Roads directory](https://github.com/geographyclub/base-layers/tree/main/roads)
+
+<img src="img/roads_xmin_20_xmax_40_ymin_50_ymax_70.png"/>
 
 ## How to use
 
