@@ -11,11 +11,10 @@ These maps use base-layers:
 <img src="img/example_hatching.png"/>
 <img src="img/example_basins.png"/>
 <img src="img/example_rivers.png"/>
-<img src="img/example_roads.png"/>
 
 ## Downloads
 
-Rasters are in 20x20 degree tiles, organized by style. Search for your tile in these directories:
+Rasters are in 20x20 degree tiles, organized by style.
 
 <img src="img/grid_20_20.png"/>
 
@@ -38,10 +37,6 @@ Rasters are in 20x20 degree tiles, organized by style. Search for your tile in t
 [Rivers directory](https://github.com/geographyclub/base-layers/tree/main/rivers)
 
 <img src="img/rivers_xmin_20_xmax_40_ymin_30_ymax_50.png"/>
-
-[Roads directory](https://github.com/geographyclub/base-layers/tree/main/roads)
-
-<img src="img/roads_xmin_20_xmax_40_ymin_50_ymax_70.png"/>
 
 ## How to use
 
