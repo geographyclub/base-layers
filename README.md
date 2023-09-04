@@ -25,7 +25,7 @@ Rasters are in 20x20 degree tiles, organized by style.
 
 [Stippling directory](https://github.com/geographyclub/base-layers/tree/main/stippling)
 
-<img src="img/stippling_xmin_-20_xmax_0_ymin_10_ymax_30.png"/>
+<img src="img/stippling_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
 
 ## How to use
 
