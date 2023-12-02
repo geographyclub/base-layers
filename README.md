@@ -27,6 +27,12 @@ Rasters are in 20x20 degree tiles, organized by style.
 
 <img src="img/stippling_xmin_60_xmax_80_ymin_30_ymax_50.png"/>
 
+## crop and convert base-layer
+
+```bash
+convert -gravity Center -geometry 1920x1080^ -crop 1920x1080+0+0 shade2/xmin_-80_xmax_-60_ymin_-50_ymax_-30.tif shade2_xmin_-80_xmax_-60_ymin_-50_ymax_-30.png
+```
+
 ## How to use
 
 TO DO.
